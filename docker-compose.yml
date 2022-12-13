@@ -1,0 +1,9 @@
+services:
+  db:
+    image: postgres
+    restart: 'no'
+    environment:
+      - POSTGRES_USER=skorodenko
+      - POSTGRES_PASSWORD=1234321
+    ports:
+      - '5432:5432'
