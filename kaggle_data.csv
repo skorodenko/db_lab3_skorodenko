@@ -1,0 +1,137 @@
+City,Country,Latitude,Longitude,Year,Hemisphere,AverageTemperature,EastWest
+Anchorage,United States,61.88,151.13,1980,North,-1.670916667,West
+Anchorage,United States,61.88,151.13,1981,North,-0.222416667,West
+Anchorage,United States,61.88,151.13,1982,North,-2.7315,West
+Anchorage,United States,61.88,151.13,1983,North,-1.251666667,West
+Anchorage,United States,61.88,151.13,1984,North,-1.440916667,West
+Anchorage,United States,61.88,151.13,1985,North,-2.20875,West
+Anchorage,United States,61.88,151.13,1986,North,-0.974833333,West
+Anchorage,United States,61.88,151.13,1987,North,-0.833333333,West
+Anchorage,United States,61.88,151.13,1988,North,-1.004416667,West
+Anchorage,United States,61.88,151.13,1989,North,-2.159583333,West
+Anchorage,United States,61.88,151.13,1990,North,-2.52575,West
+Anchorage,United States,61.88,151.13,1991,North,-1.4025,West
+Anchorage,United States,61.88,151.13,1992,North,-2.431833333,West
+Anchorage,United States,61.88,151.13,1993,North,-0.016916667,West
+Anchorage,United States,61.88,151.13,1994,North,-1.601416667,West
+Anchorage,United States,61.88,151.13,1995,North,-1.039916667,West
+Anchorage,United States,61.88,151.13,1996,North,-2.707916667,West
+Anchorage,United States,61.88,151.13,1997,North,-0.48975,West
+Anchorage,United States,61.88,151.13,1998,North,-1.180583333,West
+Anchorage,United States,61.88,151.13,1999,North,-2.851333333,West
+Anchorage,United States,61.88,151.13,2000,North,-0.498666667,West
+Anchorage,United States,61.88,151.13,2001,North,-1.025833333,West
+Anchorage,United States,61.88,151.13,2002,North,0.2565,West
+Anchorage,United States,61.88,151.13,2003,North,-0.162833333,West
+Anchorage,United States,61.88,151.13,2004,North,-0.169416667,West
+Anchorage,United States,61.88,151.13,2005,North,-0.006166667,West
+Anchorage,United States,61.88,151.13,2006,North,-1.83325,West
+Anchorage,United States,61.88,151.13,2007,North,-1.30025,West
+Anchorage,United States,61.88,151.13,2008,North,-2.54075,West
+Anchorage,United States,61.88,151.13,2009,North,-1.48925,West
+Anchorage,United States,61.88,151.13,2010,North,-1.074666667,West
+Anchorage,United States,61.88,151.13,2011,North,-1.881833333,West
+Anchorage,United States,61.88,151.13,2012,North,-2.810666667,West
+Anchorage,United States,61.88,151.13,2013,North,1.01875,West
+Norilsk,Russia,69.92,88.83,1980,North,-11.58991667,East
+Norilsk,Russia,69.92,88.83,1981,North,-10.01925,East
+Norilsk,Russia,69.92,88.83,1982,North,-11.94675,East
+Norilsk,Russia,69.92,88.83,1983,North,-9.64425,East
+Norilsk,Russia,69.92,88.83,1984,North,-11.07616667,East
+Norilsk,Russia,69.92,88.83,1985,North,-10.99516667,East
+Norilsk,Russia,69.92,88.83,1986,North,-10.69516667,East
+Norilsk,Russia,69.92,88.83,1987,North,-12.63708333,East
+Norilsk,Russia,69.92,88.83,1988,North,-10.64433333,East
+Norilsk,Russia,69.92,88.83,1989,North,-11.96033333,East
+Norilsk,Russia,69.92,88.83,1990,North,-11.59341667,East
+Norilsk,Russia,69.92,88.83,1991,North,-11.16541667,East
+Norilsk,Russia,69.92,88.83,1992,North,-12.49458333,East
+Norilsk,Russia,69.92,88.83,1993,North,-9.44275,East
+Norilsk,Russia,69.92,88.83,1994,North,-11.55883333,East
+Norilsk,Russia,69.92,88.83,1995,North,-9.299333333,East
+Norilsk,Russia,69.92,88.83,1996,North,-10.97166667,East
+Norilsk,Russia,69.92,88.83,1997,North,-10.24341667,East
+Norilsk,Russia,69.92,88.83,1998,North,-13.07441667,East
+Norilsk,Russia,69.92,88.83,1999,North,-10.80825,East
+Norilsk,Russia,69.92,88.83,2000,North,-12.28916667,East
+Norilsk,Russia,69.92,88.83,2001,North,-11.07408333,East
+Norilsk,Russia,69.92,88.83,2002,North,-11.58258333,East
+Norilsk,Russia,69.92,88.83,2003,North,-10.66975,East
+Norilsk,Russia,69.92,88.83,2004,North,-11.62733333,East
+Norilsk,Russia,69.92,88.83,2005,North,-9.21225,East
+Norilsk,Russia,69.92,88.83,2006,North,-11.47233333,East
+Norilsk,Russia,69.92,88.83,2007,North,-9.405333333,East
+Norilsk,Russia,69.92,88.83,2008,North,-9.735083333,East
+Norilsk,Russia,69.92,88.83,2009,North,-11.06233333,East
+Norilsk,Russia,69.92,88.83,2010,North,-11.60708333,East
+Norilsk,Russia,69.92,88.83,2011,North,-7.456666667,East
+Norilsk,Russia,69.92,88.83,2012,North,-8.649583333,East
+Norilsk,Russia,69.92,88.83,2013,North,-8.948625,East
+Reykjavik,Iceland,65.09,21.06,1980,North,1.990166667,West
+Reykjavik,Iceland,65.09,21.06,1981,North,0.732333333,West
+Reykjavik,Iceland,65.09,21.06,1982,North,1.391833333,West
+Reykjavik,Iceland,65.09,21.06,1983,North,0.86675,West
+Reykjavik,Iceland,65.09,21.06,1984,North,1.899,West
+Reykjavik,Iceland,65.09,21.06,1985,North,1.61075,West
+Reykjavik,Iceland,65.09,21.06,1986,North,1.540916667,West
+Reykjavik,Iceland,65.09,21.06,1987,North,2.737416667,West
+Reykjavik,Iceland,65.09,21.06,1988,North,1.313583333,West
+Reykjavik,Iceland,65.09,21.06,1989,North,1.31125,West
+Reykjavik,Iceland,65.09,21.06,1990,North,1.812333333,West
+Reykjavik,Iceland,65.09,21.06,1991,North,2.546833333,West
+Reykjavik,Iceland,65.09,21.06,1992,North,1.764166667,West
+Reykjavik,Iceland,65.09,21.06,1993,North,1.809916667,West
+Reykjavik,Iceland,65.09,21.06,1994,North,1.521583333,West
+Reykjavik,Iceland,65.09,21.06,1995,North,1.03475,West
+Reykjavik,Iceland,65.09,21.06,1996,North,2.456333333,West
+Reykjavik,Iceland,65.09,21.06,1997,North,2.276,West
+Reykjavik,Iceland,65.09,21.06,1998,North,1.7395,West
+Reykjavik,Iceland,65.09,21.06,1999,North,1.81675,West
+Reykjavik,Iceland,65.09,21.06,2000,North,2.173083333,West
+Reykjavik,Iceland,65.09,21.06,2001,North,2.528083333,West
+Reykjavik,Iceland,65.09,21.06,2002,North,2.68825,West
+Reykjavik,Iceland,65.09,21.06,2003,North,3.54425,West
+Reykjavik,Iceland,65.09,21.06,2004,North,3.076166667,West
+Reykjavik,Iceland,65.09,21.06,2005,North,2.327,West
+Reykjavik,Iceland,65.09,21.06,2006,North,2.650916667,West
+Reykjavik,Iceland,65.09,21.06,2007,North,2.658833333,West
+Reykjavik,Iceland,65.09,21.06,2008,North,2.481083333,West
+Reykjavik,Iceland,65.09,21.06,2009,North,2.533833333,West
+Reykjavik,Iceland,65.09,21.06,2010,North,2.99675,West
+Reykjavik,Iceland,65.09,21.06,2011,North,2.347,West
+Reykjavik,Iceland,65.09,21.06,2012,North,2.69075,West
+Reykjavik,Iceland,65.09,21.06,2013,North,3.478875,West
+Trondheim,Norway,63.49,9,1980,North,4.620666667,East
+Trondheim,Norway,63.49,9,1981,North,4.03175,East
+Trondheim,Norway,63.49,9,1982,North,5.163833333,East
+Trondheim,Norway,63.49,9,1983,North,5.1605,East
+Trondheim,Norway,63.49,9,1984,North,5.25475,East
+Trondheim,Norway,63.49,9,1985,North,4.0355,East
+Trondheim,Norway,63.49,9,1986,North,4.44125,East
+Trondheim,Norway,63.49,9,1987,North,4.481083333,East
+Trondheim,Norway,63.49,9,1988,North,5.433666667,East
+Trondheim,Norway,63.49,9,1989,North,6.044416667,East
+Trondheim,Norway,63.49,9,1990,North,6.352166667,East
+Trondheim,Norway,63.49,9,1991,North,5.6015,East
+Trondheim,Norway,63.49,9,1992,North,5.752166667,East
+Trondheim,Norway,63.49,9,1993,North,4.917416667,East
+Trondheim,Norway,63.49,9,1994,North,4.821666667,East
+Trondheim,Norway,63.49,9,1995,North,4.956,East
+Trondheim,Norway,63.49,9,1996,North,4.6645,East
+Trondheim,Norway,63.49,9,1997,North,5.601,East
+Trondheim,Norway,63.49,9,1998,North,5.31525,East
+Trondheim,Norway,63.49,9,1999,North,5.687083333,East
+Trondheim,Norway,63.49,9,2000,North,5.926833333,East
+Trondheim,Norway,63.49,9,2001,North,4.938166667,East
+Trondheim,Norway,63.49,9,2002,North,6.19925,East
+Trondheim,Norway,63.49,9,2003,North,6.30875,East
+Trondheim,Norway,63.49,9,2004,North,6.068333333,East
+Trondheim,Norway,63.49,9,2005,North,6.010166667,East
+Trondheim,Norway,63.49,9,2006,North,6.700833333,East
+Trondheim,Norway,63.49,9,2007,North,5.852833333,East
+Trondheim,Norway,63.49,9,2008,North,6.28575,East
+Trondheim,Norway,63.49,9,2009,North,5.96025,East
+Trondheim,Norway,63.49,9,2010,North,3.905916667,East
+Trondheim,Norway,63.49,9,2011,North,6.5085,East
+Trondheim,Norway,63.49,9,2012,North,5.022416667,East
+Trondheim,Norway,63.49,9,2013,North,5.6925,East
